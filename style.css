@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+h1.welcome {
+  color: #222;
+  margin-right: 80%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
